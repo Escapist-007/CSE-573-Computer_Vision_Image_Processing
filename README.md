@@ -14,6 +14,6 @@ The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image an
 **Problem:** Enhance contrast of image intensities
 
 **Approach:**
-The project applies Histogram equalization technique for adjusting image intensities to enhance contrast [histogram-equalization.py](image-enhancement/histogram-equalization.py).
+The project applies Histogram equalization technique for adjusting intensities of image to enhance contrast [histogram-equalization.py](image-enhancement/histogram-equalization.py).
 
 **Sample outputs:** 
