@@ -8,3 +8,12 @@ Projects on Computer Vision and Image Processing
 The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image and compares the performance [edge-detection.pl](edge-detection/edge-detection.pl).
 
 **Sample outputs:** 
+
+##
+## 2) Project - Image Enhancement
+**Problem:** Edge detection of a grayscale image using 2D and 1D Sobel Filter
+
+**Approach:**
+The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image and compares the performance [edge-detection.pl](edge-detection/edge-detection.pl).
+
+**Sample outputs:** 
