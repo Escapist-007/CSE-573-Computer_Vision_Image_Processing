@@ -5,15 +5,15 @@ Projects on Computer Vision and Image Processing
 **Problem:** Edge detection of a grayscale image using 2D and 1D Sobel Filter
 
 **Approach:**
-The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image and compares the performance [edge-detection.pl](edge-detection/edge-detection.pl).
+The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image and compares the performance [edge-detection.py](edge-detection/edge-detection.py).
 
 **Sample outputs:** 
 
 ##
 ## 2) Project - Image Enhancement
-**Problem:** Edge detection of a grayscale image using 2D and 1D Sobel Filter
+**Problem:** Enhance contrast of image intensities
 
 **Approach:**
-The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image and compares the performance [edge-detection.pl](edge-detection/edge-detection.pl).
+The project applies Histogram equalization technique for adjusting image intensities to enhance contrast [histogram-equalization.py](image-enhancement/histogram-equalization.py).
 
 **Sample outputs:** 
