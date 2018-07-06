@@ -10,7 +10,7 @@ The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image an
 **Sample outputs:** 
 Input image: 
 
-![gray.jpg](edge-detection/lena_gray.jpg | width=24)
+<img src="edge-detection/lena_gray.jpg" alt="gray.jpg" width="24" height="24">
 
 Edge detection using 3x3 2D convolution: ![2dconv.jpg](edge-detection/output/2d-conv.png)
 
