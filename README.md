@@ -8,7 +8,8 @@ Projects on Computer Vision and Image Processing
 The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image and compares the performance [edge-detection.py](edge-detection/edge-detection.py).
 
 **Sample outputs:** 
-Input image: [gray.jpg](edge-detection/lena_gray.jpg)
+Input image: ![gray.jpg](edge-detection/lena_gray.jpg)
+Edge detection using 3x3 2D convolution: ![2dconv.jpg](edge-detection/output/2d-conv.png)
 
 
 ##
