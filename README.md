@@ -1,7 +1,7 @@
 # CSE-573-Computer_Vision_Image_Processing
 Projects on Computer Vision and Image Processing
 ##
-## 1) Edge Detection
+## 1) Edge Detection [Repo..](edge-detection)
 **Problem:** Detect edges of a grayscale image using 2D and 1D Sobel Filter
 
 **Approach:**
@@ -10,7 +10,7 @@ The project applies 2D and 1D Sobel Filter on lena_gray.jpg (grayscale) image an
 **Sample outputs:** 
 
 ##
-## 2) Image Enhancement
+## 2) Image Enhancement [Repo..](image-enhancement)
 **Problem:** Enhance contrast of image intensities
 
 **Approach:**
