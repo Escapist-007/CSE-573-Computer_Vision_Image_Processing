@@ -24,5 +24,8 @@ Edge detection using 3x3 1D convolution: ![2dconv.jpg](edge-detection/output/1d-
 The project applies Histogram equalization technique for adjusting intensities of image to enhance contrast [histogram-equalization.py](image-enhancement/histogram-equalization.py).
 
 **Sample outputs:** 
-Histogram:
+Image Histogram:
 ![plog.png](image-enhancement/output/plot.png)
+
+Enchanced Image:
+![output.png](image-enhancement/output/output.png)
