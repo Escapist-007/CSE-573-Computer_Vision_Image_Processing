@@ -25,7 +25,9 @@ The project applies Histogram equalization technique for adjusting intensities o
 
 **Sample outputs:** 
 Image Histogram:
+
 ![plog.png](image-enhancement/output/plot.png)
 
 Enchanced Image:
+
 ![output.png](image-enhancement/output/output.png)
