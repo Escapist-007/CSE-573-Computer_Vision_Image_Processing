@@ -31,5 +31,5 @@ Image Histogram:
 
 Enchanced Image:
 
-<img src="image-enhancement/output/output.png" alt="output.png" height="150" width="400">
+<img src="image-enhancement/output/output.png" alt="output.png" height="200" width="800">
 
