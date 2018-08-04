@@ -38,5 +38,5 @@ Enchanced Image:
 **Problem:** Estimate the depth of objects in given scene using stereo images
 
 **Approach:**
-The project estimates the disparity of objects in given scene using 3x3 and 9x9 block matching technique. The two stereo images are taken as the input to calculate the disparity. In the output image, the object with higher pixel intensity is closer to camero.
+The project estimates the disparity of objects in given scene using 3x3 and 9x9 block matching technique. The two stereo images are taken as the input to calculate the disparity. In the output image, the object with higher pixel intensity is closer to camera.
 
