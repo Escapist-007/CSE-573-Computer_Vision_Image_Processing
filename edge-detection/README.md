@@ -1,5 +1,4 @@
 
-##
 ## Edge Detection 
 **Problem:** Detect edges of a grayscale image using 2D and 1D Sobel Filter
 
