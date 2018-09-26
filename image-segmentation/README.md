@@ -7,5 +7,11 @@
 [image-segmentation.py](image-segmentation.py)
 
 **Input image:**
+
 ![Butterfly.jpg](Butterfly.jpg)
 
+**Output Images:**
+
+Segmented using h = 60 and shift = 1
+
+![params_h-60_shift-1.PNG](output/params_h-60_shift-1.PNG)
