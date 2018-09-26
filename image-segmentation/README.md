@@ -4,4 +4,8 @@
 
 **Approach:** Implemented mean-shift algorithm based on 4 dimensional features (rgb and distance) to partition image into segmentation.
 
+[image-segmentation.py](image-segmentation.py)
+
+
+
 
