@@ -20,6 +20,6 @@ Segmented using h = 90 and shift = 1
 
 ![params_h-90_shift-1.PNG](output/params_h-90_shift-1.PNG)
 
-Segmented using h = 60 and shift = 1
+Segmented using h = 120 and shift = 1
 
-![params_h-60_shift-1.PNG](output/params_h-60_shift-1.PNG)
+![params_h-120_shift-1.PNG](output/params_h-120_shift-1.PNG)
