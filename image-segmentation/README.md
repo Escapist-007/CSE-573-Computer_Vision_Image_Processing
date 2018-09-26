@@ -6,6 +6,6 @@
 
 [image-segmentation.py](image-segmentation.py)
 
-
-
+**Input image:**
+![Butterfly.jpg](Butterfly.jpg)
 
